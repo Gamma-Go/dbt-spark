@@ -7,7 +7,7 @@ renamed as (
     order_id,
     payment_method,
     amount,
-    gmt_created,
+    gmt_created
     from source
 )
 

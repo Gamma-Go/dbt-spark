@@ -7,7 +7,7 @@ renamed as (
     member_id,
     real_amount,
     status,
-    gmt_created,
+    gmt_created
     from source
 )
 
