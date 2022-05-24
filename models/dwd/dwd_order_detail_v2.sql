@@ -2,7 +2,7 @@ with orders as (
     select * from {{ref('stg_order')}}
 ),
 
-memeber as (
+member as (
     select * from {{ref('stg_member')}}
 ),
 
